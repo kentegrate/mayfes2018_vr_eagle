@@ -124,7 +124,7 @@ http://www.xganon.com</description>
 <wire x1="3.8" y1="23.2" x2="-3.8" y2="23.2" width="0.127" layer="21"/>
 <wire x1="-3.8" y1="23.2" x2="-3.8" y2="14.05" width="0.127" layer="21"/>
 </package>
-<package name="NEOPIXEL_8MM" urn="urn:adsk.eagle:footprint:2603846/1" library_version="1">
+<package name="NEOPIXEL_8MM" urn="urn:adsk.eagle:footprint:2603846/1" locally_modified="yes" library_version="1" library_locally_modified="yes">
 <pad name="P$1" x="-1.905" y="0" drill="0.6"/>
 <pad name="P$2" x="-0.635" y="0" drill="0.6"/>
 <pad name="P$3" x="0.635" y="0" drill="0.6"/>
@@ -280,7 +280,7 @@ http://www.xganon.com</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NEOPIXEL_8MM" urn="urn:adsk.eagle:component:2603874/1" library_version="1">
+<deviceset name="NEOPIXEL_8MM" urn="urn:adsk.eagle:component:2603874/1" locally_modified="yes" library_version="1" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="NEOPIXEL" x="0" y="0"/>
 </gates>
